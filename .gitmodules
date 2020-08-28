@@ -1,0 +1,4 @@
+[submodule "Blueback-office/Fiscal-printer-lab"]
+	path = Blueback-office/Fiscal-printer-lab
+	url = git@github.com:Blueback-office/Fiscal-printer-lab.git
+	branch = master
